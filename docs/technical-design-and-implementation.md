@@ -32,9 +32,10 @@
 * Language: Java 8
 * Build tool: Maven vs. Gradle
 * TODO
-* 
+
 ### Persistant Data Storage
 * AWS RDS, AWS DynamoDB, Redis
+
 ### Caching
 
 
