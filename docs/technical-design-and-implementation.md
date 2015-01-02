@@ -6,7 +6,6 @@
 * Continuous Build: [Docker Hub Automated Builds](https://docs.docker.com/docker-hub/builds/) 
 * Deployment & Management: AWS Elastic Beanstalk
 * Metrics & Monitoring: AWS Elastic Beanstalk (possibly with AWS Kinesis)
-* Persistant Data Storage: AWS RDS and/or AWS DynamoDB
 * Load Balancer: AWS Elastic Load Balancer through AWS Elastic Beanstalk
 * App Notification/Push Message: AWS SNS
 * Data Warehouse: ? (Kinesis/S3 + Redshift)
@@ -16,6 +15,7 @@
 ### Native Mobile App
 * Device: Phone, Tablet
 * Platform: iPhone, Android
+* Prototyping: [framerjs](http://framerjs.com/)
 
 ### Web App
 * Browser: Desktop Browser, Mobile Browser
@@ -29,5 +29,12 @@
 * Real-time, async (server push): [Atmosphere framework](http://async-io.org/)
 
 ### Backend Languages & Libaries
-* Java 8
+* Language: Java 8
+* Build tool: Maven vs. Gradle
 * TODO
+* 
+### Persistant Data Storage
+* AWS RDS, AWS DynamoDB, Redis
+### Caching
+
+
