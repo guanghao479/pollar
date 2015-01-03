@@ -4,11 +4,11 @@
 * Code Source: GitHub
 * Development Environment: Docker
 * Continuous Build: [Docker Hub Automated Builds](https://docs.docker.com/docker-hub/builds/) 
-* Deployment & Management: AWS Elastic Beanstalk
-* Metrics & Monitoring: AWS Elastic Beanstalk (possibly with AWS Kinesis)
-* Load Balancer: AWS Elastic Load Balancer through AWS Elastic Beanstalk
-* App Notification/Push Message: AWS SNS
-* Data Warehouse: ? (Kinesis/S3 + Redshift)
+* Deployment & Management: Elastic Beanstalk
+* Metrics & Monitoring: Elastic Beanstalk (possibly with Kinesis)
+* Load Balancer: Elastic Load Balancer through Elastic Beanstalk
+* App Notification/Push Message: SNS
+* CDN: CloudFront
 
 ## Software Frameworks
 
@@ -30,12 +30,16 @@
 
 ### Backend Languages & Libaries
 * Language: Java 8
-* Build tool: Maven vs. Gradle
-* TODO
+* Pacakge managemnet and build: Maven vs. Gradle
+* Other build tools: Checlstyle, Lombok
+* Dependency Injection: Spring vs. Guice
 
 ### Persistant Data Storage
-* AWS RDS, AWS DynamoDB, AWS S3
+* Relational: RDS
+* Key-value or document store: DynamoDB, 
+* File store: S3
+* Data Warehouse: ? (Kinesis/S3 + Redshift)
 
 ### Caching
-* AWS ElasticCache with Redis
+* ElasticCache with Redis
 
