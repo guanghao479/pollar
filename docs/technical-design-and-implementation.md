@@ -25,7 +25,7 @@
 * Web server: node.js vs. Jetty vs. Tomcat
 
 ### Web Services
-* Java RESTful framework: Jersey vs. [Spring MVC](http://spring.io/guides/gs/spring-boot/) vs. [Play Framework](https://www.playframework.com/) vs. [Spark Framework](http://sparkjava.com/)
+* Java RESTful framework: [Jersey](https://jersey.java.net/) vs. [Spring MVC](http://spring.io/guides/gs/spring-boot/) vs. [Play Framework](https://www.playframework.com/) vs. [Spark Framework](http://sparkjava.com/)
 * Real-time, async (server push): [Atmosphere framework](http://async-io.org/)
 
 ### Backend Languages & Libaries
@@ -34,8 +34,8 @@
 * TODO
 
 ### Persistant Data Storage
-* AWS RDS, AWS DynamoDB, Redis
+* AWS RDS, AWS DynamoDB, AWS S3
 
 ### Caching
-
+* AWS ElasticCache with Redis
 
