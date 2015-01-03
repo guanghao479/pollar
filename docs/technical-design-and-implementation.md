@@ -25,7 +25,13 @@
 * Web server: node.js vs. Jetty vs. Tomcat
 
 ### Web Services
-* Java RESTful framework: [Jersey](https://jersey.java.net/) vs. [Spring MVC](http://spring.io/guides/gs/spring-boot/) vs. [Play Framework](https://www.playframework.com/) vs. [Spark Framework](http://sparkjava.com/)
+* Java RESTful framework: 
+  * [Jersey](https://jersey.java.net/)
+  * [Spring MVC](http://spring.io/guides/gs/spring-boot/)
+  * [Play Framework](https://www.playframework.com/)
+  * [Spark Framework](http://sparkjava.com/)
+  * [Ninja Framework](http://www.ninjaframework.org/)
+  * [Dropwizard] (https://dropwizard.github.io/dropwizard/)
 * Real-time, async (server push): [Atmosphere framework](http://async-io.org/)
 
 ### Backend Languages & Libaries
