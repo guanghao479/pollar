@@ -26,12 +26,11 @@
 
 ### Web Services
 * Java RESTful framework: 
-  * [Jersey](https://jersey.java.net/)
+  * [Jersey](https://jersey.java.net/) through [Dropwizard] (https://dropwizard.github.io/dropwizard/)
   * [Spring MVC](http://spring.io/guides/gs/spring-boot/)
   * [Play Framework](https://www.playframework.com/)
   * [Spark Framework](http://sparkjava.com/)
   * [Ninja Framework](http://www.ninjaframework.org/)
-  * [Dropwizard] (https://dropwizard.github.io/dropwizard/)
 * Real-time, async (server push): [Atmosphere framework](http://async-io.org/)
 
 ### Backend Languages & Libaries
