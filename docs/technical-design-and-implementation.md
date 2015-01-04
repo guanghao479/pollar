@@ -19,10 +19,12 @@
 
 ### Web App
 * Responsive, Single Page Application
+* Scaffolding: Yeoman
 * Browser: Desktop Browser, Mobile Browser
 * Client-Side MVC framework: AngularJS
 * CSS Framework: Bootstrap through AngularUI, Compass
 * Pakcage Management: Bower
+* Build: Grunt
 * Optional: HTML5 Boilerplate, jQuery
 
 ### Web Services
