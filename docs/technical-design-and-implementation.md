@@ -18,11 +18,12 @@
 * Prototyping: [framerjs](http://framerjs.com/)
 
 ### Web App
-* Browser: Desktop Browser, Mobile Browser
 * Responsive, Single Page Application
-* Client-side MVC framework: AngularJS
-* Other web tools: HTML5 Boilerplate, Bootstrap, SASS/Compass, CoffeeScript, jQuery
-* Web server: node.js vs. Jetty vs. Tomcat
+* Browser: Desktop Browser, Mobile Browser
+* Client-Side MVC framework: AngularJS
+* CSS Framework: Bootstrap through AngularUI, Compass
+* Pakcage Management: Bower
+* Optional: HTML5 Boilerplate, jQuery
 
 ### Web Services
 * Java RESTful framework: 
