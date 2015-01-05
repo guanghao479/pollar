@@ -38,13 +38,16 @@
 
 ### Backend Languages & Libaries
 * Language: Java 8
-* Pacakge managemnet and build: Maven vs. Gradle
+* Pacakge managemnet and build: Maven
 * Other build tools: Checlstyle, Lombok
-* Dependency Injection: Spring vs. Guice
+* Dependency Injection: Guice
+* Logging: Slf4j over Logback
+* Utility: Guava
+* Unit test: JUnit and [Mockito](http://site.mockito.org/)
 
 ### Persistant Data Storage
 * Relational: RDS
-* Key-value or document store: DynamoDB, 
+* Key-value store / document store: DynamoDB
 * File store: S3
 * Data Warehouse: ? (Kinesis/S3 + Redshift)
 
