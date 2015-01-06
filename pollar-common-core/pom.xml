@@ -24,12 +24,6 @@
   <dependencies>
 
     <dependency>
-      <groupId>com.exprate.common</groupId>
-      <artifactId>exprate-common</artifactId>
-      <version>1.0-SNAPSHOT</version>
-    </dependency>
-
-    <dependency>
       <groupId>ch.qos.logback</groupId>
       <artifactId>logback-classic</artifactId>
       <version>${logback.version}</version>
