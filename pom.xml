@@ -9,5 +9,6 @@
   <modules>
     <module>pollar-common-core</module>
     <module>pollar-domain-model</module>
+    <module>pollar-service</module>
   </modules>
 </project>
